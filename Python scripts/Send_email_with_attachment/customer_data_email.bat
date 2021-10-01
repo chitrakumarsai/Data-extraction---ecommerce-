@@ -1,0 +1,1 @@
+"C:\Program Files\Python39\python.exe" "C:\Processes\python_script\Send_DSDC_revenue_data_via_email\Send_cx_revenue_attachment.py" pause

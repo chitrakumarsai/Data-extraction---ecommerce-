@@ -1,0 +1,5 @@
+sum(df_dtc_params == "354")
+[1] 3
+> sum(df_dtc_params == "NULL")
+[1] 0
+> 

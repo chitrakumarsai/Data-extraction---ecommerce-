@@ -1,0 +1,19 @@
+
+START - automation started - Tue Apr 27 2021 13:56:55 GMT-0500 (Central Daylight Time)
+
+LIVE MODE - type done to quit
+ [RPA][STARTED]
+[RPA][0] - listening for inputs
+[RPA][1] - https://fgv.ups-scs.com/loginservicesfgv/logOn.nfdo
+[RPA][1] - listening for inputs
+[RPA][2] - exist_result = exist('//*[@id="top"]/div/div/div/ul/li[2]/a').toString()
+[RPA][2] - listening for inputs
+[RPA][3] - dump exist_result to rpa_python.txt
+[RPA][3] - listening for inputs
+[RPA][4] - click //*[@id="top"]/div/div/div/ul/li[2]/a
+[RPA][4] - listening for inputs
+[RPA][5] - exist_result = exist('//*[@id="signInName"]').toString()
+[RPA][5] - listening for inputs
+[RPA][6] - dump exist_result to rpa_python.txt
+[RPA][6] - listening for inputs
+[RPA][7] - type //*[@id="signInName"] as karak@hyper-pet.com

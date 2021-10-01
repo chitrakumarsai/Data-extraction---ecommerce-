@@ -1,0 +1,1 @@
+"C:\Program Files\Python39\python.exe" "C:\Processes\python_script\python_code_flexport_data\Flex_shipping001.py" pause
