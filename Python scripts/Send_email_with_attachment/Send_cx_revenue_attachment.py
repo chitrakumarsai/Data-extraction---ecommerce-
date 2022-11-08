@@ -21,8 +21,8 @@ def customer_revenue():
     SourcePathName  = 'C:/Processes/python_script/Customer_revenue_data/' + filename 
 
     msg = MIMEMultipart()
-    msg['From'] = 'chitrav@cosmicpet.com'
-    msg['To'] = 'chitrav@cosmicpet.com'
+    msg['From'] = 'your email address'
+    msg['To'] = 'your email address'
     msg['Subject'] = 'Customer Revenue Data'
     body = 'Hello, Please find the attached which is the customer data/Revenue report.'
     msg.attach(MIMEText(body, 'plain'))
