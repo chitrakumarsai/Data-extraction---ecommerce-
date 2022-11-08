@@ -39,7 +39,7 @@ def customer_revenue():
     server.ehlo()
     server.starttls()
     server.ehlo()
-    server.login('chitrav@cosmicpet.com', 'Akuti19eza!')  ### if applicable
+    server.login('enter your email', 'password')  ### if applicable
     server.send_message(msg)
     # server.stoptls()
     server.quit()
